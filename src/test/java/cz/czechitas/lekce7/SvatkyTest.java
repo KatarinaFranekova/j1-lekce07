@@ -106,6 +106,4 @@ class SvatkyTest {
     assertEquals(36,svatky.getPocetJmen());
   }
 
-
-
 }
